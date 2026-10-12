@@ -12,11 +12,11 @@ The project uses Python for data analysis and cleaning, PostgreSQL for SQL-based
 
 The dataset contains structured data used to explore patterns, trends, and relationships between different variables.
 
-- **Dataset Name:** [Enter Dataset Name]
+- **Dataset Name:** [cutomer_shopping_behavior]
 - **Data Format:** CSV
-- **Data Source:** [Enter Dataset Source]
-- **Records:** [Enter Number of Rows]
-- **Columns:** [Enter Number of Columns]
+- **Data Source:** [customer_behavior]
+- **Records:** [3901]
+- **Columns:** [18]
 
 ### Dataset Preparation
 - Loaded the dataset into Python using Pandas.
@@ -100,7 +100,8 @@ The Power BI dashboard provides an interactive view of the key metrics and findi
 
 Add your Power BI dashboard screenshot here.
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](<img width="1287" height="727" alt="image" src="https://github.com/user-attachments/assets/94272566-ab22-4ac2-b745-a500208d767e" />
+)
 
 **Note:** Replace `images/dashboard.png` with the actual path to your dashboard screenshot. If you publish your dashboard, you can also add a link to it here.
 
